@@ -1,2 +1,2 @@
 # stepik_auto_tests_course
-homework for stepik course
+All homework for the course will be posted here.
